@@ -1,0 +1,5 @@
+Ресурс rc-parusa.ru зарегистрирован.
+Используйте этот ключ в HTML-коде, который ваш сайт передает на устройства пользователей.
+6LeeB8osAAAAAAUvWh_Lm0cfbOiFcNQIjDoRb1kL
+Используйте этот секретный ключ для обмена данными между сайтом и сервисом reCAPTCHA.
+6LeeB8osAAAAABdCKt0W365lkE1rKwwiSBtqwd6Y
